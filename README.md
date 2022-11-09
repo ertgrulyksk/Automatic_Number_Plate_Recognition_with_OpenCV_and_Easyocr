@@ -1,0 +1,1 @@
+# Automatic_Number_Plate_Recognition_with_OpenCV_and_Easyocr
